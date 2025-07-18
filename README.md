@@ -1,2 +1,13 @@
-# cawi-website
-My personal website
+# My Personal Portfolio (Showcase Only)  
+
+This project showcases my personal portfolio website built with Next.js, Tailwind CSS, and deployed on Netlify.  
+
+🔗 [Live Demo](https://mylivelinkwhenavailable.com)  
+
+Tech Stack:  
+- Next.js  
+- TypeScript  
+- Tailwind CSS  
+- shadcn/UI  
+
+_No source code provided._  
