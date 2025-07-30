@@ -8,6 +8,6 @@ Tech Stack:
 - Next.js  
 - TypeScript  
 - Tailwind CSS  
-- shadcn/UI  
+- React 
 
 _No source code provided._  
