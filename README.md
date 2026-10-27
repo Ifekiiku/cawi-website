@@ -2,7 +2,7 @@
 
 This project showcases my personal portfolio website built with Next.js, Tailwind CSS, and deployed on Netlify.  
 
-🔗 [Live Demo](https://cawicloud.com)  
+🔗 [View Live Web App]([https://cawicloud.netlify.app/])  
 
 Tech Stack:  
 - Next.js  
