@@ -1,6 +1,6 @@
 # CAWI Cloud Web App (Showcase Only)
 
-This project showcases my personal portfolio website built with Next.js, Tailwind CSS, and deployed on Netlify.
+This project showcases the CAWI Cloud website I built with Next.js and Tailwind CSS and deployed it on Netlify.
 
 🔗 [View Live Web App](https://cawicloud.netlify.app)
 
